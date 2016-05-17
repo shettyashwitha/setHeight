@@ -1,0 +1,24 @@
+{
+  "name": "setHeight",
+  "version": "0.0.0",
+  "authors": [
+    "ashwitha-shetty <ashwitha_shetty@external.mckinsey.com>"
+  ],
+  "description": "calculates the height of the all the child elements and sets the maximum height to each element",
+  "main": "setHeight.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "watchon",
+    "set-height"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
