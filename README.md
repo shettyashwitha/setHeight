@@ -5,7 +5,7 @@
 ```<div class="parent-element" set-height watchon="'.child-element'">
   <div ng-repeat="element in elements">
     <div class="child-element">
-      //code here
+      code here
     </div>
   </div>
 </div>
