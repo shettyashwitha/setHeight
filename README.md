@@ -1,5 +1,5 @@
 # setHeight
-This directive calculates the height of all children elements and sets the height of each child element to the maximum height 
+This directive calculates the height of all sibling elements and sets the height of each element to that of tallest element  
 #Example
 ```html
 <div class="parent-element" set-height watchon="'.child-element'">
